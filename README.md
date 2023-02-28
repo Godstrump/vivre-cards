@@ -1,6 +1,6 @@
 <h1> Vivre-cards API</h1>
 
-<p>This API serves the Vendgram virtual card and makes transactions, expense and spend management, plus rewards a lot seamless for users.</p>
+<p>This API serves the Vivre-cards virtual card and makes transactions, expense and spend management, plus rewards a lot seamless for users.</p>
 
 <h3>The Users can</h3> 
 <ul>
@@ -309,7 +309,7 @@ send a GET request to
 send a POST request to 
 
 ```
-/api/user/vendgram/email-verification
+/api/user/vivre-cards/email-verification
 ```
 
 ```
