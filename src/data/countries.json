@@ -1,0 +1,1752 @@
+[
+    {
+    "name": "Afghanistan",
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "independent": false
+    },
+    {
+    "name": "Åland Islands",
+    "alpha2Code": "AX",
+    "alpha3Code": "ALA",
+    "flag": "https://flagcdn.com/ax.svg",
+    "independent": false
+    },
+    {
+    "name": "Albania",
+    "alpha2Code": "AL",
+    "alpha3Code": "ALB",
+    "flag": "https://flagcdn.com/al.svg",
+    "independent": false
+    },
+    {
+    "name": "Algeria",
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "flag": "https://flagcdn.com/dz.svg",
+    "independent": false
+    },
+    {
+    "name": "American Samoa",
+    "alpha2Code": "AS",
+    "alpha3Code": "ASM",
+    "flag": "https://flagcdn.com/as.svg",
+    "independent": false
+    },
+    {
+    "name": "Andorra",
+    "alpha2Code": "AD",
+    "alpha3Code": "AND",
+    "flag": "https://flagcdn.com/ad.svg",
+    "independent": false
+    },
+    {
+    "name": "Angola",
+    "alpha2Code": "AO",
+    "alpha3Code": "AGO",
+    "flag": "https://flagcdn.com/ao.svg",
+    "independent": false
+    },
+    {
+    "name": "Anguilla",
+    "alpha2Code": "AI",
+    "alpha3Code": "AIA",
+    "flag": "https://flagcdn.com/ai.svg",
+    "independent": false
+    },
+    {
+    "name": "Antarctica",
+    "alpha2Code": "AQ",
+    "alpha3Code": "ATA",
+    "flag": "https://flagcdn.com/aq.svg",
+    "independent": false
+    },
+    {
+    "name": "Antigua and Barbuda",
+    "alpha2Code": "AG",
+    "alpha3Code": "ATG",
+    "flag": "https://flagcdn.com/ag.svg",
+    "independent": false
+    },
+    {
+    "name": "Argentina",
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "flag": "https://flagcdn.com/ar.svg",
+    "independent": false
+    },
+    {
+    "name": "Armenia",
+    "alpha2Code": "AM",
+    "alpha3Code": "ARM",
+    "flag": "https://flagcdn.com/am.svg",
+    "independent": false
+    },
+    {
+    "name": "Aruba",
+    "alpha2Code": "AW",
+    "alpha3Code": "ABW",
+    "flag": "https://flagcdn.com/aw.svg",
+    "independent": false
+    },
+    {
+    "name": "Australia",
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "flag": "https://flagcdn.com/au.svg",
+    "independent": false
+    },
+    {
+    "name": "Austria",
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "flag": "https://flagcdn.com/at.svg",
+    "independent": false
+    },
+    {
+    "name": "Azerbaijan",
+    "alpha2Code": "AZ",
+    "alpha3Code": "AZE",
+    "flag": "https://flagcdn.com/az.svg",
+    "independent": false
+    },
+    {
+    "name": "Bahamas",
+    "alpha2Code": "BS",
+    "alpha3Code": "BHS",
+    "flag": "https://flagcdn.com/bs.svg",
+    "independent": false
+    },
+    {
+    "name": "Bahrain",
+    "alpha2Code": "BH",
+    "alpha3Code": "BHR",
+    "flag": "https://flagcdn.com/bh.svg",
+    "independent": false
+    },
+    {
+    "name": "Bangladesh",
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD",
+    "flag": "https://flagcdn.com/bd.svg",
+    "independent": false
+    },
+    {
+    "name": "Barbados",
+    "alpha2Code": "BB",
+    "alpha3Code": "BRB",
+    "flag": "https://flagcdn.com/bb.svg",
+    "independent": false
+    },
+    {
+    "name": "Belarus",
+    "alpha2Code": "BY",
+    "alpha3Code": "BLR",
+    "flag": "https://flagcdn.com/by.svg",
+    "independent": false
+    },
+    {
+    "name": "Belgium",
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "flag": "https://flagcdn.com/be.svg",
+    "independent": false
+    },
+    {
+    "name": "Belize",
+    "alpha2Code": "BZ",
+    "alpha3Code": "BLZ",
+    "flag": "https://flagcdn.com/bz.svg",
+    "independent": false
+    },
+    {
+    "name": "Benin",
+    "alpha2Code": "BJ",
+    "alpha3Code": "BEN",
+    "flag": "https://flagcdn.com/bj.svg",
+    "independent": false
+    },
+    {
+    "name": "Bermuda",
+    "alpha2Code": "BM",
+    "alpha3Code": "BMU",
+    "flag": "https://flagcdn.com/bm.svg",
+    "independent": false
+    },
+    {
+    "name": "Bhutan",
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN",
+    "flag": "https://flagcdn.com/bt.svg",
+    "independent": false
+    },
+    {
+    "name": "Bolivia (Plurinational State of)",
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL",
+    "flag": "https://flagcdn.com/bo.svg",
+    "independent": false
+    },
+    {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha2Code": "BQ",
+    "alpha3Code": "BES",
+    "flag": "https://flagcdn.com/bq.svg",
+    "independent": false
+    },
+    {
+    "name": "Bosnia and Herzegovina",
+    "alpha2Code": "BA",
+    "alpha3Code": "BIH",
+    "flag": "https://flagcdn.com/ba.svg",
+    "independent": false
+    },
+    {
+    "name": "Botswana",
+    "alpha2Code": "BW",
+    "alpha3Code": "BWA",
+    "flag": "https://flagcdn.com/bw.svg",
+    "independent": false
+    },
+    {
+    "name": "Bouvet Island",
+    "alpha2Code": "BV",
+    "alpha3Code": "BVT",
+    "flag": "https://flagcdn.com/bv.svg",
+    "independent": false
+    },
+    {
+    "name": "Brazil",
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "flag": "https://flagcdn.com/br.svg",
+    "independent": false
+    },
+    {
+    "name": "British Indian Ocean Territory",
+    "alpha2Code": "IO",
+    "alpha3Code": "IOT",
+    "flag": "https://flagcdn.com/io.svg",
+    "independent": false
+    },
+    {
+    "name": "United States Minor Outlying Islands",
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI",
+    "flag": "https://flagcdn.com/um.svg",
+    "independent": false
+    },
+    {
+    "name": "Virgin Islands (British)",
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB",
+    "flag": "https://flagcdn.com/vg.svg",
+    "independent": false
+    },
+    {
+    "name": "Virgin Islands (U.S.)",
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR",
+    "flag": "https://flagcdn.com/vi.svg",
+    "independent": false
+    },
+    {
+    "name": "Brunei Darussalam",
+    "alpha2Code": "BN",
+    "alpha3Code": "BRN",
+    "flag": "https://flagcdn.com/bn.svg",
+    "independent": false
+    },
+    {
+    "name": "Bulgaria",
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR",
+    "flag": "https://flagcdn.com/bg.svg",
+    "independent": false
+    },
+    {
+    "name": "Burkina Faso",
+    "alpha2Code": "BF",
+    "alpha3Code": "BFA",
+    "flag": "https://flagcdn.com/bf.svg",
+    "independent": false
+    },
+    {
+    "name": "Burundi",
+    "alpha2Code": "BI",
+    "alpha3Code": "BDI",
+    "flag": "https://flagcdn.com/bi.svg",
+    "independent": false
+    },
+    {
+    "name": "Cambodia",
+    "alpha2Code": "KH",
+    "alpha3Code": "KHM",
+    "flag": "https://flagcdn.com/kh.svg",
+    "independent": false
+    },
+    {
+    "name": "Cameroon",
+    "alpha2Code": "CM",
+    "alpha3Code": "CMR",
+    "flag": "https://flagcdn.com/cm.svg",
+    "independent": false
+    },
+    {
+    "name": "Canada",
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "flag": "https://flagcdn.com/ca.svg",
+    "independent": false
+    },
+    {
+    "name": "Cabo Verde",
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV",
+    "flag": "https://flagcdn.com/cv.svg",
+    "independent": false
+    },
+    {
+    "name": "Cayman Islands",
+    "alpha2Code": "KY",
+    "alpha3Code": "CYM",
+    "flag": "https://flagcdn.com/ky.svg",
+    "independent": false
+    },
+    {
+    "name": "Central African Republic",
+    "alpha2Code": "CF",
+    "alpha3Code": "CAF",
+    "flag": "https://flagcdn.com/cf.svg",
+    "independent": false
+    },
+    {
+    "name": "Chad",
+    "alpha2Code": "TD",
+    "alpha3Code": "TCD",
+    "flag": "https://flagcdn.com/td.svg",
+    "independent": false
+    },
+    {
+    "name": "Chile",
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL",
+    "flag": "https://flagcdn.com/cl.svg",
+    "independent": false
+    },
+    {
+    "name": "China",
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "flag": "https://flagcdn.com/cn.svg",
+    "independent": false
+    },
+    {
+    "name": "Christmas Island",
+    "alpha2Code": "CX",
+    "alpha3Code": "CXR",
+    "flag": "https://flagcdn.com/cx.svg",
+    "independent": false
+    },
+    {
+    "name": "Cocos (Keeling) Islands",
+    "alpha2Code": "CC",
+    "alpha3Code": "CCK",
+    "flag": "https://flagcdn.com/cc.svg",
+    "independent": false
+    },
+    {
+    "name": "Colombia",
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "flag": "https://flagcdn.com/co.svg",
+    "independent": false
+    },
+    {
+    "name": "Comoros",
+    "alpha2Code": "KM",
+    "alpha3Code": "COM",
+    "flag": "https://flagcdn.com/km.svg",
+    "independent": false
+    },
+    {
+    "name": "Congo",
+    "alpha2Code": "CG",
+    "alpha3Code": "COG",
+    "flag": "https://flagcdn.com/cg.svg",
+    "independent": false
+    },
+    {
+    "name": "Congo (Democratic Republic of the)",
+    "alpha2Code": "CD",
+    "alpha3Code": "COD",
+    "flag": "https://flagcdn.com/cd.svg",
+    "independent": false
+    },
+    {
+    "name": "Cook Islands",
+    "alpha2Code": "CK",
+    "alpha3Code": "COK",
+    "flag": "https://flagcdn.com/ck.svg",
+    "independent": false
+    },
+    {
+    "name": "Costa Rica",
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI",
+    "flag": "https://flagcdn.com/cr.svg",
+    "independent": false
+    },
+    {
+    "name": "Croatia",
+    "alpha2Code": "HR",
+    "alpha3Code": "HRV",
+    "flag": "https://flagcdn.com/hr.svg",
+    "independent": false
+    },
+    {
+    "name": "Cuba",
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "flag": "https://flagcdn.com/cu.svg",
+    "independent": false
+    },
+    {
+    "name": "Curaçao",
+    "alpha2Code": "CW",
+    "alpha3Code": "CUW",
+    "flag": "https://flagcdn.com/cw.svg",
+    "independent": false
+    },
+    {
+    "name": "Cyprus",
+    "alpha2Code": "CY",
+    "alpha3Code": "CYP",
+    "flag": "https://flagcdn.com/cy.svg",
+    "independent": false
+    },
+    {
+    "name": "Czech Republic",
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "flag": "https://flagcdn.com/cz.svg",
+    "independent": false
+    },
+    {
+    "name": "Denmark",
+    "alpha2Code": "DK",
+    "alpha3Code": "DNK",
+    "flag": "https://flagcdn.com/dk.svg",
+    "independent": false
+    },
+    {
+    "name": "Djibouti",
+    "alpha2Code": "DJ",
+    "alpha3Code": "DJI",
+    "flag": "https://flagcdn.com/dj.svg",
+    "independent": false
+    },
+    {
+    "name": "Dominica",
+    "alpha2Code": "DM",
+    "alpha3Code": "DMA",
+    "flag": "https://flagcdn.com/dm.svg",
+    "independent": false
+    },
+    {
+    "name": "Dominican Republic",
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM",
+    "flag": "https://flagcdn.com/do.svg",
+    "independent": false
+    },
+    {
+    "name": "Ecuador",
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU",
+    "flag": "https://flagcdn.com/ec.svg",
+    "independent": false
+    },
+    {
+    "name": "Egypt",
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY",
+    "flag": "https://flagcdn.com/eg.svg",
+    "independent": false
+    },
+    {
+    "name": "El Salvador",
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV",
+    "flag": "https://flagcdn.com/sv.svg",
+    "independent": false
+    },
+    {
+    "name": "Equatorial Guinea",
+    "alpha2Code": "GQ",
+    "alpha3Code": "GNQ",
+    "flag": "https://flagcdn.com/gq.svg",
+    "independent": false
+    },
+    {
+    "name": "Eritrea",
+    "alpha2Code": "ER",
+    "alpha3Code": "ERI",
+    "flag": "https://flagcdn.com/er.svg",
+    "independent": false
+    },
+    {
+    "name": "Estonia",
+    "alpha2Code": "EE",
+    "alpha3Code": "EST",
+    "flag": "https://flagcdn.com/ee.svg",
+    "independent": false
+    },
+    {
+    "name": "Ethiopia",
+    "alpha2Code": "ET",
+    "alpha3Code": "ETH",
+    "flag": "https://flagcdn.com/et.svg",
+    "independent": false
+    },
+    {
+    "name": "Falkland Islands (Malvinas)",
+    "alpha2Code": "FK",
+    "alpha3Code": "FLK",
+    "flag": "https://flagcdn.com/fk.svg",
+    "independent": false
+    },
+    {
+    "name": "Faroe Islands",
+    "alpha2Code": "FO",
+    "alpha3Code": "FRO",
+    "flag": "https://flagcdn.com/fo.svg",
+    "independent": false
+    },
+    {
+    "name": "Fiji",
+    "alpha2Code": "FJ",
+    "alpha3Code": "FJI",
+    "flag": "https://flagcdn.com/fj.svg",
+    "independent": false
+    },
+    {
+    "name": "Finland",
+    "alpha2Code": "FI",
+    "alpha3Code": "FIN",
+    "flag": "https://flagcdn.com/fi.svg",
+    "independent": false
+    },
+    {
+    "name": "France",
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "flag": "https://flagcdn.com/fr.svg",
+    "independent": false
+    },
+    {
+    "name": "French Guiana",
+    "alpha2Code": "GF",
+    "alpha3Code": "GUF",
+    "flag": "https://flagcdn.com/gf.svg",
+    "independent": false
+    },
+    {
+    "name": "French Polynesia",
+    "alpha2Code": "PF",
+    "alpha3Code": "PYF",
+    "flag": "https://flagcdn.com/pf.svg",
+    "independent": false
+    },
+    {
+    "name": "French Southern Territories",
+    "alpha2Code": "TF",
+    "alpha3Code": "ATF",
+    "flag": "https://flagcdn.com/tf.svg",
+    "independent": false
+    },
+    {
+    "name": "Gabon",
+    "alpha2Code": "GA",
+    "alpha3Code": "GAB",
+    "flag": "https://flagcdn.com/ga.svg",
+    "independent": false
+    },
+    {
+    "name": "Gambia",
+    "alpha2Code": "GM",
+    "alpha3Code": "GMB",
+    "flag": "https://flagcdn.com/gm.svg",
+    "independent": false
+    },
+    {
+    "name": "Georgia",
+    "alpha2Code": "GE",
+    "alpha3Code": "GEO",
+    "flag": "https://flagcdn.com/ge.svg",
+    "independent": false
+    },
+    {
+    "name": "Germany",
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "flag": "https://flagcdn.com/de.svg",
+    "independent": false
+    },
+    {
+    "name": "Ghana",
+    "alpha2Code": "GH",
+    "alpha3Code": "GHA",
+    "flag": "https://flagcdn.com/gh.svg",
+    "independent": false
+    },
+    {
+    "name": "Gibraltar",
+    "alpha2Code": "GI",
+    "alpha3Code": "GIB",
+    "flag": "https://flagcdn.com/gi.svg",
+    "independent": false
+    },
+    {
+    "name": "Greece",
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "flag": "https://flagcdn.com/gr.svg",
+    "independent": false
+    },
+    {
+    "name": "Greenland",
+    "alpha2Code": "GL",
+    "alpha3Code": "GRL",
+    "flag": "https://flagcdn.com/gl.svg",
+    "independent": false
+    },
+    {
+    "name": "Grenada",
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD",
+    "flag": "https://flagcdn.com/gd.svg",
+    "independent": false
+    },
+    {
+    "name": "Guadeloupe",
+    "alpha2Code": "GP",
+    "alpha3Code": "GLP",
+    "flag": "https://flagcdn.com/gp.svg",
+    "independent": false
+    },
+    {
+    "name": "Guam",
+    "alpha2Code": "GU",
+    "alpha3Code": "GUM",
+    "flag": "https://flagcdn.com/gu.svg",
+    "independent": false
+    },
+    {
+    "name": "Guatemala",
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM",
+    "flag": "https://flagcdn.com/gt.svg",
+    "independent": false
+    },
+    {
+    "name": "Guernsey",
+    "alpha2Code": "GG",
+    "alpha3Code": "GGY",
+    "flag": "https://flagcdn.com/gg.svg",
+    "independent": false
+    },
+    {
+    "name": "Guinea",
+    "alpha2Code": "GN",
+    "alpha3Code": "GIN",
+    "flag": "https://flagcdn.com/gn.svg",
+    "independent": false
+    },
+    {
+    "name": "Guinea-Bissau",
+    "alpha2Code": "GW",
+    "alpha3Code": "GNB",
+    "flag": "https://flagcdn.com/gw.svg",
+    "independent": false
+    },
+    {
+    "name": "Guyana",
+    "alpha2Code": "GY",
+    "alpha3Code": "GUY",
+    "flag": "https://flagcdn.com/gy.svg",
+    "independent": false
+    },
+    {
+    "name": "Haiti",
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI",
+    "flag": "https://flagcdn.com/ht.svg",
+    "independent": false
+    },
+    {
+    "name": "Heard Island and McDonald Islands",
+    "alpha2Code": "HM",
+    "alpha3Code": "HMD",
+    "flag": "https://flagcdn.com/hm.svg",
+    "independent": false
+    },
+    {
+    "name": "Vatican City",
+    "alpha2Code": "VA",
+    "alpha3Code": "VAT",
+    "flag": "https://flagcdn.com/va.svg",
+    "independent": false
+    },
+    {
+    "name": "Honduras",
+    "alpha2Code": "HN",
+    "alpha3Code": "HND",
+    "flag": "https://flagcdn.com/hn.svg",
+    "independent": false
+    },
+    {
+    "name": "Hungary",
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "flag": "https://flagcdn.com/hu.svg",
+    "independent": false
+    },
+    {
+    "name": "Hong Kong",
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG",
+    "flag": "https://flagcdn.com/hk.svg",
+    "independent": false
+    },
+    {
+    "name": "Iceland",
+    "alpha2Code": "IS",
+    "alpha3Code": "ISL",
+    "flag": "https://flagcdn.com/is.svg",
+    "independent": false
+    },
+    {
+    "name": "India",
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "flag": "https://flagcdn.com/in.svg",
+    "independent": false
+    },
+    {
+    "name": "Indonesia",
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "flag": "https://flagcdn.com/id.svg",
+    "independent": false
+    },
+    {
+    "name": "Ivory Coast",
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV",
+    "flag": "https://flagcdn.com/ci.svg",
+    "independent": false
+    },
+    {
+    "name": "Iran (Islamic Republic of)",
+    "alpha2Code": "IR",
+    "alpha3Code": "IRN",
+    "flag": "https://flagcdn.com/ir.svg",
+    "independent": false
+    },
+    {
+    "name": "Iraq",
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ",
+    "flag": "https://flagcdn.com/iq.svg",
+    "independent": false
+    },
+    {
+    "name": "Ireland",
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL",
+    "flag": "https://flagcdn.com/ie.svg",
+    "independent": false
+    },
+    {
+    "name": "Isle of Man",
+    "alpha2Code": "IM",
+    "alpha3Code": "IMN",
+    "flag": "https://flagcdn.com/im.svg",
+    "independent": false
+    },
+    {
+    "name": "Israel",
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "flag": "https://flagcdn.com/il.svg",
+    "independent": false
+    },
+    {
+    "name": "Italy",
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "flag": "https://flagcdn.com/it.svg",
+    "independent": false
+    },
+    {
+    "name": "Jamaica",
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM",
+    "flag": "https://flagcdn.com/jm.svg",
+    "independent": false
+    },
+    {
+    "name": "Japan",
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "flag": "https://flagcdn.com/jp.svg",
+    "independent": false
+    },
+    {
+    "name": "Jersey",
+    "alpha2Code": "JE",
+    "alpha3Code": "JEY",
+    "flag": "https://flagcdn.com/je.svg",
+    "independent": false
+    },
+    {
+    "name": "Jordan",
+    "alpha2Code": "JO",
+    "alpha3Code": "JOR",
+    "flag": "https://flagcdn.com/jo.svg",
+    "independent": false
+    },
+    {
+    "name": "Kazakhstan",
+    "alpha2Code": "KZ",
+    "alpha3Code": "KAZ",
+    "flag": "https://flagcdn.com/kz.svg",
+    "independent": false
+    },
+    {
+    "name": "Kenya",
+    "alpha2Code": "KE",
+    "alpha3Code": "KEN",
+    "flag": "https://flagcdn.com/ke.svg",
+    "independent": false
+    },
+    {
+    "name": "Kiribati",
+    "alpha2Code": "KI",
+    "alpha3Code": "KIR",
+    "flag": "https://flagcdn.com/ki.svg",
+    "independent": false
+    },
+    {
+    "name": "Kuwait",
+    "alpha2Code": "KW",
+    "alpha3Code": "KWT",
+    "flag": "https://flagcdn.com/kw.svg",
+    "independent": false
+    },
+    {
+    "name": "Kyrgyzstan",
+    "alpha2Code": "KG",
+    "alpha3Code": "KGZ",
+    "flag": "https://flagcdn.com/kg.svg",
+    "independent": false
+    },
+    {
+    "name": "Lao People's Democratic Republic",
+    "alpha2Code": "LA",
+    "alpha3Code": "LAO",
+    "flag": "https://flagcdn.com/la.svg",
+    "independent": false
+    },
+    {
+    "name": "Latvia",
+    "alpha2Code": "LV",
+    "alpha3Code": "LVA",
+    "flag": "https://flagcdn.com/lv.svg",
+    "independent": false
+    },
+    {
+    "name": "Lebanon",
+    "alpha2Code": "LB",
+    "alpha3Code": "LBN",
+    "flag": "https://flagcdn.com/lb.svg",
+    "independent": false
+    },
+    {
+    "name": "Lesotho",
+    "alpha2Code": "LS",
+    "alpha3Code": "LSO",
+    "flag": "https://flagcdn.com/ls.svg",
+    "independent": false
+    },
+    {
+    "name": "Liberia",
+    "alpha2Code": "LR",
+    "alpha3Code": "LBR",
+    "flag": "https://flagcdn.com/lr.svg",
+    "independent": false
+    },
+    {
+    "name": "Libya",
+    "alpha2Code": "LY",
+    "alpha3Code": "LBY",
+    "flag": "https://flagcdn.com/ly.svg",
+    "independent": false
+    },
+    {
+    "name": "Liechtenstein",
+    "alpha2Code": "LI",
+    "alpha3Code": "LIE",
+    "flag": "https://flagcdn.com/li.svg",
+    "independent": false
+    },
+    {
+    "name": "Lithuania",
+    "alpha2Code": "LT",
+    "alpha3Code": "LTU",
+    "flag": "https://flagcdn.com/lt.svg",
+    "independent": false
+    },
+    {
+    "name": "Luxembourg",
+    "alpha2Code": "LU",
+    "alpha3Code": "LUX",
+    "flag": "https://flagcdn.com/lu.svg",
+    "independent": false
+    },
+    {
+    "name": "Macao",
+    "alpha2Code": "MO",
+    "alpha3Code": "MAC",
+    "flag": "https://flagcdn.com/mo.svg",
+    "independent": false
+    },
+    {
+    "name": "North Macedonia",
+    "alpha2Code": "MK",
+    "alpha3Code": "MKD",
+    "flag": "https://flagcdn.com/mk.svg",
+    "independent": false
+    },
+    {
+    "name": "Madagascar",
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG",
+    "flag": "https://flagcdn.com/mg.svg",
+    "independent": false
+    },
+    {
+    "name": "Malawi",
+    "alpha2Code": "MW",
+    "alpha3Code": "MWI",
+    "flag": "https://flagcdn.com/mw.svg",
+    "independent": false
+    },
+    {
+    "name": "Malaysia",
+    "alpha2Code": "MY",
+    "alpha3Code": "MYS",
+    "flag": "https://flagcdn.com/my.svg",
+    "independent": false
+    },
+    {
+    "name": "Maldives",
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV",
+    "flag": "https://flagcdn.com/mv.svg",
+    "independent": false
+    },
+    {
+    "name": "Mali",
+    "alpha2Code": "ML",
+    "alpha3Code": "MLI",
+    "flag": "https://flagcdn.com/ml.svg",
+    "independent": false
+    },
+    {
+    "name": "Malta",
+    "alpha2Code": "MT",
+    "alpha3Code": "MLT",
+    "flag": "https://flagcdn.com/mt.svg",
+    "independent": false
+    },
+    {
+    "name": "Marshall Islands",
+    "alpha2Code": "MH",
+    "alpha3Code": "MHL",
+    "flag": "https://flagcdn.com/mh.svg",
+    "independent": false
+    },
+    {
+    "name": "Martinique",
+    "alpha2Code": "MQ",
+    "alpha3Code": "MTQ",
+    "flag": "https://flagcdn.com/mq.svg",
+    "independent": false
+    },
+    {
+    "name": "Mauritania",
+    "alpha2Code": "MR",
+    "alpha3Code": "MRT",
+    "flag": "https://flagcdn.com/mr.svg",
+    "independent": false
+    },
+    {
+    "name": "Mauritius",
+    "alpha2Code": "MU",
+    "alpha3Code": "MUS",
+    "flag": "https://flagcdn.com/mu.svg",
+    "independent": false
+    },
+    {
+    "name": "Mayotte",
+    "alpha2Code": "YT",
+    "alpha3Code": "MYT",
+    "flag": "https://flagcdn.com/yt.svg",
+    "independent": false
+    },
+    {
+    "name": "Mexico",
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "flag": "https://flagcdn.com/mx.svg",
+    "independent": false
+    },
+    {
+    "name": "Micronesia (Federated States of)",
+    "alpha2Code": "FM",
+    "alpha3Code": "FSM",
+    "flag": "https://flagcdn.com/fm.svg",
+    "independent": false
+    },
+    {
+    "name": "Moldova (Republic of)",
+    "alpha2Code": "MD",
+    "alpha3Code": "MDA",
+    "flag": "https://flagcdn.com/md.svg",
+    "independent": false
+    },
+    {
+    "name": "Monaco",
+    "alpha2Code": "MC",
+    "alpha3Code": "MCO",
+    "flag": "https://flagcdn.com/mc.svg",
+    "independent": false
+    },
+    {
+    "name": "Mongolia",
+    "alpha2Code": "MN",
+    "alpha3Code": "MNG",
+    "flag": "https://flagcdn.com/mn.svg",
+    "independent": false
+    },
+    {
+    "name": "Montenegro",
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE",
+    "flag": "https://flagcdn.com/me.svg",
+    "independent": false
+    },
+    {
+    "name": "Montserrat",
+    "alpha2Code": "MS",
+    "alpha3Code": "MSR",
+    "flag": "https://flagcdn.com/ms.svg",
+    "independent": false
+    },
+    {
+    "name": "Morocco",
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR",
+    "flag": "https://flagcdn.com/ma.svg",
+    "independent": false
+    },
+    {
+    "name": "Mozambique",
+    "alpha2Code": "MZ",
+    "alpha3Code": "MOZ",
+    "flag": "https://flagcdn.com/mz.svg",
+    "independent": false
+    },
+    {
+    "name": "Myanmar",
+    "alpha2Code": "MM",
+    "alpha3Code": "MMR",
+    "flag": "https://flagcdn.com/mm.svg",
+    "independent": false
+    },
+    {
+    "name": "Namibia",
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM",
+    "flag": "https://flagcdn.com/na.svg",
+    "independent": false
+    },
+    {
+    "name": "Nauru",
+    "alpha2Code": "NR",
+    "alpha3Code": "NRU",
+    "flag": "https://flagcdn.com/nr.svg",
+    "independent": false
+    },
+    {
+    "name": "Nepal",
+    "alpha2Code": "NP",
+    "alpha3Code": "NPL",
+    "flag": "https://flagcdn.com/np.svg",
+    "independent": false
+    },
+    {
+    "name": "Netherlands",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "flag": "https://flagcdn.com/nl.svg",
+    "independent": false
+    },
+    {
+    "name": "New Caledonia",
+    "alpha2Code": "NC",
+    "alpha3Code": "NCL",
+    "flag": "https://flagcdn.com/nc.svg",
+    "independent": false
+    },
+    {
+    "name": "New Zealand",
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL",
+    "flag": "https://flagcdn.com/nz.svg",
+    "independent": false
+    },
+    {
+    "name": "Nicaragua",
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC",
+    "flag": "https://flagcdn.com/ni.svg",
+    "independent": false
+    },
+    {
+    "name": "Niger",
+    "alpha2Code": "NE",
+    "alpha3Code": "NER",
+    "flag": "https://flagcdn.com/ne.svg",
+    "independent": false
+    },
+    {
+    "name": "Nigeria",
+    "alpha2Code": "NG",
+    "alpha3Code": "NGA",
+    "flag": "https://flagcdn.com/ng.svg",
+    "independent": false
+    },
+    {
+    "name": "Niue",
+    "alpha2Code": "NU",
+    "alpha3Code": "NIU",
+    "flag": "https://flagcdn.com/nu.svg",
+    "independent": false
+    },
+    {
+    "name": "Norfolk Island",
+    "alpha2Code": "NF",
+    "alpha3Code": "NFK",
+    "flag": "https://flagcdn.com/nf.svg",
+    "independent": false
+    },
+    {
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK",
+    "flag": "https://flagcdn.com/kp.svg",
+    "independent": false
+    },
+    {
+    "name": "Northern Mariana Islands",
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP",
+    "flag": "https://flagcdn.com/mp.svg",
+    "independent": false
+    },
+    {
+    "name": "Norway",
+    "alpha2Code": "NO",
+    "alpha3Code": "NOR",
+    "flag": "https://flagcdn.com/no.svg",
+    "independent": false
+    },
+    {
+    "name": "Oman",
+    "alpha2Code": "OM",
+    "alpha3Code": "OMN",
+    "flag": "https://flagcdn.com/om.svg",
+    "independent": false
+    },
+    {
+    "name": "Pakistan",
+    "alpha2Code": "PK",
+    "alpha3Code": "PAK",
+    "flag": "https://flagcdn.com/pk.svg",
+    "independent": false
+    },
+    {
+    "name": "Palau",
+    "alpha2Code": "PW",
+    "alpha3Code": "PLW",
+    "flag": "https://flagcdn.com/pw.svg",
+    "independent": false
+    },
+    {
+    "name": "Palestine, State of",
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE",
+    "flag": "https://flagcdn.com/ps.svg",
+    "independent": false
+    },
+    {
+    "name": "Panama",
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "flag": "https://flagcdn.com/pa.svg",
+    "independent": false
+    },
+    {
+    "name": "Papua New Guinea",
+    "alpha2Code": "PG",
+    "alpha3Code": "PNG",
+    "flag": "https://flagcdn.com/pg.svg",
+    "independent": false
+    },
+    {
+    "name": "Paraguay",
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY",
+    "flag": "https://flagcdn.com/py.svg",
+    "independent": false
+    },
+    {
+    "name": "Peru",
+    "alpha2Code": "PE",
+    "alpha3Code": "PER",
+    "flag": "https://flagcdn.com/pe.svg",
+    "independent": false
+    },
+    {
+    "name": "Philippines",
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL",
+    "flag": "https://flagcdn.com/ph.svg",
+    "independent": false
+    },
+    {
+    "name": "Pitcairn",
+    "alpha2Code": "PN",
+    "alpha3Code": "PCN",
+    "flag": "https://flagcdn.com/pn.svg",
+    "independent": false
+    },
+    {
+    "name": "Poland",
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "flag": "https://flagcdn.com/pl.svg",
+    "independent": false
+    },
+    {
+    "name": "Portugal",
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT",
+    "flag": "https://flagcdn.com/pt.svg",
+    "independent": false
+    },
+    {
+    "name": "Puerto Rico",
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI",
+    "flag": "https://flagcdn.com/pr.svg",
+    "independent": false
+    },
+    {
+    "name": "Qatar",
+    "alpha2Code": "QA",
+    "alpha3Code": "QAT",
+    "flag": "https://flagcdn.com/qa.svg",
+    "independent": false
+    },
+    {
+    "name": "Republic of Kosovo",
+    "alpha2Code": "XK",
+    "alpha3Code": "UNK",
+    "flag": "https://flagcdn.com/xk.svg",
+    "independent": false
+    },
+    {
+    "name": "Réunion",
+    "alpha2Code": "RE",
+    "alpha3Code": "REU",
+    "flag": "https://flagcdn.com/re.svg",
+    "independent": false
+    },
+    {
+    "name": "Romania",
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "flag": "https://flagcdn.com/ro.svg",
+    "independent": false
+    },
+    {
+    "name": "Russian Federation",
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "flag": "https://flagcdn.com/ru.svg",
+    "independent": false
+    },
+    {
+    "name": "Rwanda",
+    "alpha2Code": "RW",
+    "alpha3Code": "RWA",
+    "flag": "https://flagcdn.com/rw.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Barthélemy",
+    "alpha2Code": "BL",
+    "alpha3Code": "BLM",
+    "flag": "https://flagcdn.com/bl.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2Code": "SH",
+    "alpha3Code": "SHN",
+    "flag": "https://flagcdn.com/sh.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Kitts and Nevis",
+    "alpha2Code": "KN",
+    "alpha3Code": "KNA",
+    "flag": "https://flagcdn.com/kn.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Lucia",
+    "alpha2Code": "LC",
+    "alpha3Code": "LCA",
+    "flag": "https://flagcdn.com/lc.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Martin (French part)",
+    "alpha2Code": "MF",
+    "alpha3Code": "MAF",
+    "flag": "https://flagcdn.com/mf.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Pierre and Miquelon",
+    "alpha2Code": "PM",
+    "alpha3Code": "SPM",
+    "flag": "https://flagcdn.com/pm.svg",
+    "independent": false
+    },
+    {
+    "name": "Saint Vincent and the Grenadines",
+    "alpha2Code": "VC",
+    "alpha3Code": "VCT",
+    "flag": "https://flagcdn.com/vc.svg",
+    "independent": false
+    },
+    {
+    "name": "Samoa",
+    "alpha2Code": "WS",
+    "alpha3Code": "WSM",
+    "flag": "https://flagcdn.com/ws.svg",
+    "independent": false
+    },
+    {
+    "name": "San Marino",
+    "alpha2Code": "SM",
+    "alpha3Code": "SMR",
+    "flag": "https://flagcdn.com/sm.svg",
+    "independent": false
+    },
+    {
+    "name": "Sao Tome and Principe",
+    "alpha2Code": "ST",
+    "alpha3Code": "STP",
+    "flag": "https://flagcdn.com/st.svg",
+    "independent": false
+    },
+    {
+    "name": "Saudi Arabia",
+    "alpha2Code": "SA",
+    "alpha3Code": "SAU",
+    "flag": "https://flagcdn.com/sa.svg",
+    "independent": false
+    },
+    {
+    "name": "Senegal",
+    "alpha2Code": "SN",
+    "alpha3Code": "SEN",
+    "flag": "https://flagcdn.com/sn.svg",
+    "independent": false
+    },
+    {
+    "name": "Serbia",
+    "alpha2Code": "RS",
+    "alpha3Code": "SRB",
+    "flag": "https://flagcdn.com/rs.svg",
+    "independent": false
+    },
+    {
+    "name": "Seychelles",
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC",
+    "flag": "https://flagcdn.com/sc.svg",
+    "independent": false
+    },
+    {
+    "name": "Sierra Leone",
+    "alpha2Code": "SL",
+    "alpha3Code": "SLE",
+    "flag": "https://flagcdn.com/sl.svg",
+    "independent": false
+    },
+    {
+    "name": "Singapore",
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP",
+    "flag": "https://flagcdn.com/sg.svg",
+    "independent": false
+    },
+    {
+    "name": "Sint Maarten (Dutch part)",
+    "alpha2Code": "SX",
+    "alpha3Code": "SXM",
+    "flag": "https://flagcdn.com/sx.svg",
+    "independent": false
+    },
+    {
+    "name": "Slovakia",
+    "alpha2Code": "SK",
+    "alpha3Code": "SVK",
+    "flag": "https://flagcdn.com/sk.svg",
+    "independent": false
+    },
+    {
+    "name": "Slovenia",
+    "alpha2Code": "SI",
+    "alpha3Code": "SVN",
+    "flag": "https://flagcdn.com/si.svg",
+    "independent": false
+    },
+    {
+    "name": "Solomon Islands",
+    "alpha2Code": "SB",
+    "alpha3Code": "SLB",
+    "flag": "https://flagcdn.com/sb.svg",
+    "independent": false
+    },
+    {
+    "name": "Somalia",
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM",
+    "flag": "https://flagcdn.com/so.svg",
+    "independent": false
+    },
+    {
+    "name": "South Africa",
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF",
+    "flag": "https://flagcdn.com/za.svg",
+    "independent": false
+    },
+    {
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha2Code": "GS",
+    "alpha3Code": "SGS",
+    "flag": "https://flagcdn.com/gs.svg",
+    "independent": false
+    },
+    {
+    "name": "Korea (Republic of)",
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "flag": "https://flagcdn.com/kr.svg",
+    "independent": false
+    },
+    {
+    "name": "Spain",
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "flag": "https://flagcdn.com/es.svg",
+    "independent": false
+    },
+    {
+    "name": "Sri Lanka",
+    "alpha2Code": "LK",
+    "alpha3Code": "LKA",
+    "flag": "https://flagcdn.com/lk.svg",
+    "independent": false
+    },
+    {
+    "name": "Sudan",
+    "alpha2Code": "SD",
+    "alpha3Code": "SDN",
+    "flag": "https://flagcdn.com/sd.svg",
+    "independent": false
+    },
+    {
+    "name": "South Sudan",
+    "alpha2Code": "SS",
+    "alpha3Code": "SSD",
+    "flag": "https://flagcdn.com/ss.svg",
+    "independent": false
+    },
+    {
+    "name": "Suriname",
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR",
+    "flag": "https://flagcdn.com/sr.svg",
+    "independent": false
+    },
+    {
+    "name": "Svalbard and Jan Mayen",
+    "alpha2Code": "SJ",
+    "alpha3Code": "SJM",
+    "flag": "https://flagcdn.com/sj.svg",
+    "independent": false
+    },
+    {
+    "name": "Swaziland",
+    "alpha2Code": "SZ",
+    "alpha3Code": "SWZ",
+    "flag": "https://flagcdn.com/sz.svg",
+    "independent": false
+    },
+    {
+    "name": "Sweden",
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "flag": "https://flagcdn.com/se.svg",
+    "independent": false
+    },
+    {
+    "name": "Switzerland",
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "flag": "https://flagcdn.com/ch.svg",
+    "independent": false
+    },
+    {
+    "name": "Syrian Arab Republic",
+    "alpha2Code": "SY",
+    "alpha3Code": "SYR",
+    "flag": "https://flagcdn.com/sy.svg",
+    "independent": false
+    },
+    {
+    "name": "Taiwan",
+    "alpha2Code": "TW",
+    "alpha3Code": "TWN",
+    "flag": "https://flagcdn.com/tw.svg",
+    "independent": false
+    },
+    {
+    "name": "Tajikistan",
+    "alpha2Code": "TJ",
+    "alpha3Code": "TJK",
+    "flag": "https://flagcdn.com/tj.svg",
+    "independent": false
+    },
+    {
+    "name": "Tanzania, United Republic of",
+    "alpha2Code": "TZ",
+    "alpha3Code": "TZA",
+    "flag": "https://flagcdn.com/tz.svg",
+    "independent": false
+    },
+    {
+    "name": "Thailand",
+    "alpha2Code": "TH",
+    "alpha3Code": "THA",
+    "flag": "https://flagcdn.com/th.svg",
+    "independent": false
+    },
+    {
+    "name": "Timor-Leste",
+    "alpha2Code": "TL",
+    "alpha3Code": "TLS",
+    "flag": "https://flagcdn.com/tl.svg",
+    "independent": false
+    },
+    {
+    "name": "Togo",
+    "alpha2Code": "TG",
+    "alpha3Code": "TGO",
+    "flag": "https://flagcdn.com/tg.svg",
+    "independent": false
+    },
+    {
+    "name": "Tokelau",
+    "alpha2Code": "TK",
+    "alpha3Code": "TKL",
+    "flag": "https://flagcdn.com/tk.svg",
+    "independent": false
+    },
+    {
+    "name": "Tonga",
+    "alpha2Code": "TO",
+    "alpha3Code": "TON",
+    "flag": "https://flagcdn.com/to.svg",
+    "independent": false
+    },
+    {
+    "name": "Trinidad and Tobago",
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO",
+    "flag": "https://flagcdn.com/tt.svg",
+    "independent": false
+    },
+    {
+    "name": "Tunisia",
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN",
+    "flag": "https://flagcdn.com/tn.svg",
+    "independent": false
+    },
+    {
+    "name": "Turkey",
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR",
+    "flag": "https://flagcdn.com/tr.svg",
+    "independent": false
+    },
+    {
+    "name": "Turkmenistan",
+    "alpha2Code": "TM",
+    "alpha3Code": "TKM",
+    "flag": "https://flagcdn.com/tm.svg",
+    "independent": false
+    },
+    {
+    "name": "Turks and Caicos Islands",
+    "alpha2Code": "TC",
+    "alpha3Code": "TCA",
+    "flag": "https://flagcdn.com/tc.svg",
+    "independent": false
+    },
+    {
+    "name": "Tuvalu",
+    "alpha2Code": "TV",
+    "alpha3Code": "TUV",
+    "flag": "https://flagcdn.com/tv.svg",
+    "independent": false
+    },
+    {
+    "name": "Uganda",
+    "alpha2Code": "UG",
+    "alpha3Code": "UGA",
+    "flag": "https://flagcdn.com/ug.svg",
+    "independent": false
+    },
+    {
+    "name": "Ukraine",
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "flag": "https://flagcdn.com/ua.svg",
+    "independent": false
+    },
+    {
+    "name": "United Arab Emirates",
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE",
+    "flag": "https://flagcdn.com/ae.svg",
+    "independent": false
+    },
+    {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "flag": "https://flagcdn.com/gb.svg",
+    "independent": false
+    },
+    {
+    "name": "United States of America",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "flag": "https://flagcdn.com/us.svg",
+    "independent": false
+    },
+    {
+    "name": "Uruguay",
+    "alpha2Code": "UY",
+    "alpha3Code": "URY",
+    "flag": "https://flagcdn.com/uy.svg",
+    "independent": false
+    },
+    {
+    "name": "Uzbekistan",
+    "alpha2Code": "UZ",
+    "alpha3Code": "UZB",
+    "flag": "https://flagcdn.com/uz.svg",
+    "independent": false
+    },
+    {
+    "name": "Vanuatu",
+    "alpha2Code": "VU",
+    "alpha3Code": "VUT",
+    "flag": "https://flagcdn.com/vu.svg",
+    "independent": false
+    },
+    {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "flag": "https://flagcdn.com/ve.svg",
+    "independent": false
+    },
+    {
+    "name": "Vietnam",
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM",
+    "flag": "https://flagcdn.com/vn.svg",
+    "independent": false
+    },
+    {
+    "name": "Wallis and Futuna",
+    "alpha2Code": "WF",
+    "alpha3Code": "WLF",
+    "flag": "https://flagcdn.com/wf.svg",
+    "independent": false
+    },
+    {
+    "name": "Western Sahara",
+    "alpha2Code": "EH",
+    "alpha3Code": "ESH",
+    "flag": "https://flagcdn.com/eh.svg",
+    "independent": false
+    },
+    {
+    "name": "Yemen",
+    "alpha2Code": "YE",
+    "alpha3Code": "YEM",
+    "flag": "https://flagcdn.com/ye.svg",
+    "independent": false
+    },
+    {
+    "name": "Zambia",
+    "alpha2Code": "ZM",
+    "alpha3Code": "ZMB",
+    "flag": "https://flagcdn.com/zm.svg",
+    "independent": false
+    },
+    {
+    "name": "Zimbabwe",
+    "alpha2Code": "ZW",
+    "alpha3Code": "ZWE",
+    "flag": "https://flagcdn.com/zw.svg",
+    "independent": false
+    }
+    ]
