@@ -1,4 +1,4 @@
-<h1> Vendgram API</h1>
+<h1> Vivre-cards API</h1>
 
 <p>This API serves the Vendgram virtual card and makes transactions, expense and spend management, plus rewards a lot seamless for users.</p>
 
